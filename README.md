@@ -1,7 +1,5 @@
 # goit-js-hw-01
 
----
-
 ## Задача 1. `task-1.js.`
 
 Станція з продажу ремонтних дроїдів готова до запуску, залишилося написати програмне забезпечення
@@ -26,7 +24,7 @@ console.log(makeTransaction(3, 1000)); // "You ordered 3 droids worth 3000 credi
 console.log(makeTransaction(10, 500)); // "You ordered 10 droids worth 5000 credits!
 ```
 
-> ## Задача 2. `task-2.js`
+## Задача 2. `task-2.js`
 
 Оголоси функцію `getShippingMessage`, яка очікує три параметри, значення яких будуть задаватися під
 час її виклику:
@@ -50,7 +48,7 @@ console.log(getShippingMessage("Germany", 80, 20)); // "Shipping to Germany will
 console.log(getShippingMessage("Sweden", 100, 20)); // "Shipping to Sweden will cost 120 credits"
 ```
 
-> ## Задача 3. `task-3.js`
+## Задача 3. `task-3.js`
 
 Оголоси функцію `getElementWidth`, яка очікує три параметри, значення яких будуть задаватися під час
 її виклику:
