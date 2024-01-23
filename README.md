@@ -1,4 +1,4 @@
-> # goit-js-hw-01
+# goit-js-hw-01
 
 ## Задача 1. `task-1.js.`
 
